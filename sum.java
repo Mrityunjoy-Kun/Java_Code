@@ -10,6 +10,7 @@ class sum {
         System.out.println("The value of b is: ");
         b = sc.nextInt();
 
+        //This is a comment
         sum = a + b;
         System.out.print("Sum = " + sum);
     }
